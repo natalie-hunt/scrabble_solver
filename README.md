@@ -3,16 +3,16 @@ scrabble_solver
 
 Command-line tool to generate and score possible Scrabble words from a given rack.
 
-##Description
+## Description
 
 I made this in an afternoon for fun and as an exercise in writing clean, readable code. If any of it would be useful, feel free to clone the repo and play around with it.
 
-##Install
+## Install
 Install manually with
 
     git clone git://github.com/nathan-hunt/scrabble_solver.git
 
-##Usage:
+## Usage:
 
     python scrabble.py [RACK]
 
